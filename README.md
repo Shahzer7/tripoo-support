@@ -1,2 +1,3 @@
-# wayfarer-support
-Public support, privacy policy, and terms for Wayfarer on iPhone.
+# Tripoo support
+
+Public support, privacy policy, and terms for Tripoo Travel Planner on iPhone.
